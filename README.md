@@ -37,7 +37,7 @@ RN03 – Jogadores podem apostar em valores iguais (dividindo o prêmio).
 RN04 – Caso nenhum jogador acerte, o computador é declarado vencedor.
 
 ## Diagrama de Classes
-![Diagrama de Classes](./Diagrama de classes-JogodeDados.png)
+![Diagrama de Classes](./Diagramadeclasses-JogodeDados.png)
 
 ## Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./Diagrama de casos de uso-JogodeDados.jpg)
+![Diagrama de Casos de Uso](./Diagramadecasosdeuso-JogodeDados.jpg)
